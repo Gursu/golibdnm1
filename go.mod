@@ -1,3 +1,3 @@
-module github.com/hexer1303/golibdnm1
+module github.com/Gursu/golibdnm1
 
 go 1.25.0
